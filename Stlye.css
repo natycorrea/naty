@@ -1,0 +1,54 @@
+header {
+    background-color: #424E61;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+.dança-imagem{
+    width: 25%;
+}
+
+.dança-imagem{
+    background-image: linear-gradient(#424E61,#16CFF8);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+
+.danca-lista-item{
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.escola-div-conteudo{
+    width: 35%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
+}
+
+.danca-lista-item a{
+    text-decoration: none; 
+    color: rgb(221, 27, 211);
+}
+  
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+    .danca-imagem{
+        width: 20%;
+    }
+    .cabecalho-lista-item{
+        display: inline-block;
+        margin: 0 16px;
+        font-size: 24px;
+}.estudantes-todos{
+    display: grid;
+
